@@ -1,0 +1,138 @@
+[
+  {
+    "id": {
+      "scope": null,
+      "name": "x-search"
+    },
+    "isSymlink": true,
+    "hash": "9d0e493cef89ea61294656ace486741e08c53fb7"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react-typescript"
+    },
+    "isSymlink": false,
+    "hash": "3865a0706bf26cad691e66284db206cbdae67f91"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/typescript"
+    },
+    "isSymlink": false,
+    "hash": "befd9e3f4fa0c82a53857ef8bdea434291b1ac27"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/compiler-types"
+    },
+    "isSymlink": false,
+    "hash": "9c86fadf101414c730daf20f3b3c0b3adcd84e79"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/get-capsule-name"
+    },
+    "isSymlink": false,
+    "hash": "26aefd5aeef44fe4baf09eb442719418744f2d7d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/isolate"
+    },
+    "isSymlink": false,
+    "hash": "496bad7d68cc0df1c0c925f5b2b9f4ed966707d2"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/preset"
+    },
+    "isSymlink": false,
+    "hash": "8b55cc1452e9a81dca45165c6487d3c867f04792"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/create-workspace"
+    },
+    "isSymlink": false,
+    "hash": "6b4cdb50159308c72de7a4291fc551540ba4a390"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "common/build-component"
+    },
+    "isSymlink": false,
+    "hash": "4046cf768d7527702d0d1393e876cf12efe18835"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "recipe"
+    },
+    "isSymlink": true,
+    "hash": "e2a2270c8ad2b82da9e6a12b40893355a38e510c"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react"
+    },
+    "isSymlink": false,
+    "hash": "acfc8a808ec3ad8abacd313c9c8b456c1fd7b0b3"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": "mhowell007.aaron-test",
+      "name": "x-search"
+    },
+    "isSymlink": false,
+    "hash": "6e624693b038b055aa4eb1d113c5f74042f69eb7"
+  },
+  {
+    "id": {
+      "scope": "mhowell007.aaron-test",
+      "name": "recipe"
+    },
+    "isSymlink": false,
+    "hash": "2f97a20b786404d924976e4de9a0a6a581a8cfdd"
+  }
+]
